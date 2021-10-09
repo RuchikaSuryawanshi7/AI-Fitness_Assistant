@@ -104,6 +104,6 @@ Along with the representative dataset, another problem faced by the app is the v
 ## Conclusion
 Now we are confident that Fitness exercises are very beneficial to personal health and fitness; however, they can also be ineffective and potentially dangerous if performed incorrectly by the user. Half knowledge is risky and Exercise mistakes are made due to the same reason when the user does not perform the proper form or pose. To overcome such a massive problem we introduce Pose Trainer, an application that detects the user's exercise pose and provides personalized, detailed recommendations on how the user can rectify their form. 
 
-***APK File:*** 
+
 	
 
