@@ -1,7 +1,7 @@
 # AI-Fitness_Assistant
 <img width="600" align='left' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Black%20White%20Shapes%20and%20Widgets%20YouTube%20Intro%20(1).png">
 <p>
-  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"><img width="320" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"></a>
+  <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"><img width="420" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"></a>
 </p>
 
 <p align='center'>
